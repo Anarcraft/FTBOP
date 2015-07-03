@@ -26,10 +26,12 @@ rftools-3.11
 
 #### Changed:
 **BuildCraft:** Enabled Filler and Builder<br>
+**Damage Indicators:** Red colored damage text.<br>
 **Forestry:** Disabled Copper/Tin ore gen.<br>
 **Hardcore Ender Expansion:** Disabled temple caller, enabled over powered mobs in the end.<br>
 **Project Red:** Disabled Copper/Tin ore gen.<br>
 **Mariculture:** Disabled Copper ore gen.<br>
+**Voxel Map:** Square map, enabled all radars, unlimited waypoint distance and all death points.
 
 #### Removed:
 Dense Ores
@@ -52,6 +54,7 @@ Thaumcraft NEI Plugin
 **Natural Absorbtion:** Enabled armor bar.<br>
 **Open Blocks:** Disabled fluid registry for tank.<br>
 **ProjectE:** Removed Bedrockium custom EMC since it was fixed, Watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.
+**Sanguimancy:** Disabled "renderSillyAprilFish".<br>
 
 #### Removed From Server:
 Inventory Tweaks (Derp!)<br>

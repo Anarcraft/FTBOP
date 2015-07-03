@@ -2,21 +2,23 @@
 
 ### Client/Server:
 **Forge:** Enabled delete erroring entities and tile entities instead of crashing the server.<br>
+**Big Reactors:** Enabled steel recipes.<br>
 **COFH:** Disabled NPC death messages.<br>
+**Damage Indicators:** Red colored damage text.<br>
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
 **iChun Util:** Disabled stats collection.<br>
 **Hardcore Ender Expansion:** Disabled temple caller, enabled over powered mobs in the end.<br>
-**Magical Crops:** Disabled second seed drop (Already silly OP enough, can be automated).<br>
+**Magical Crops:** Disabled second seed drop, weak essence drop.<br>
 **Map Writer:** Disabled maps.<br>
 **Mekanism:** Disabled fluid registry for portable tank, enabled voice server again (will test and see if it works yet), tin/copper generation disabled.<br>
 **Minechem:** Changed energy transfer & buffer to 10x default.<br>
 **Natural Absorbtion:** Enabled armor bar.<br>
 **Open Blocks:** Disabled fluid registry for tank.<br>
 **PneumaticCraft:** Disabled seed mob drops.<br>
-**ProjectE:** Enabled nether star recipes & knowledge tome, set EMC value of blaze rod and blaze powder to 32 and 16, respectively, to prevent exploits, watch of Flowing time pedestal bonus set to 4, pregenerate EMC values.<br>
-**Random Things:** Set BloodMoonSpawnLimitMult=1 and BloodMoonSpawnRange=8.<br>
-**Sanguimancy:** Disabled "renderSillyAprilFish".<br>
-**Special Mobs:** Trolling disabled.
+**ProjectE:** Enabled nether star recipes, set EMC value of blaze rod and blaze powder to 32 and 16, respectively, to prevent exploits, watch of Flowing time pedestal bonus set to 4, pregenerate EMC values, disable energy condensors, transmutation table, tome and EMC tooltips.<br>
+**Random Things:** Set BloodMoonSpawnLimitMult=2 and BloodMoonSpawnRange=6.<br>
+**Special Mobs:** Trolling disabled.<br>
+**Voxel Map:** Square map, enabled all radars, unlimited waypoint distance and all death points.
 
 ### Client:
 **Better Title Screen:** Modpack name.
