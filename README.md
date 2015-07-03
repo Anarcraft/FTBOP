@@ -11,7 +11,8 @@ Mods already at a stable version won’t be updated until another stable version
 Minimum of 2GB allocated RAM.<br>
 Java 7 minimum, works with Java 8.<br>
 
-These are the java arguments I set, your results may vary depending on your computer specifications.  Modify/disable as needed:<br>
+These are the java arguments I set, your results may vary depending on your computer specifications.  Modify/disable as needed:
+
 -d64 -Dfml.ignorePatchDiscrepancies=true -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseParNewGC -XX:+UseConcMarkSweepGC
 
 ### [Mods List](Mods-List.md)
