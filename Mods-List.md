@@ -27,7 +27,7 @@ ChickenChunks-1.7.10-1.3.4.19<br>
 Chisel2-2.4.1.40<br>
 chocolateQuest-1.7.10-1.0<br>
 CodeChickenCore-1.7.10-1.0.7.46<br>
-CoFHCore-[1.7.10]3.0.2-262<br>
+CoFHCore-[1.7.10]3.0.3B1-291<br>
 CompactSolars-1.7.10-4.4.39.315<br>
 ComputerCraft1.73<br>
 dark_menagerie-1.7.10-beta-3.1a<br>
@@ -101,7 +101,7 @@ ProjectRed-1.7.10-4.7.0pre4.88-World<br>
 pvpToggle-1.7.10-1.0.33<br>
 Railcraft_1.7.10-9.6.1.0<br>
 RandomThings-2.2.4<br>
-RedstoneArsenal-[1.7.10]1.1.0-80<br>
+RedstoneArsenal-[1.7.10]1.1.1B1-85<br>
 Reliquary-1.2.257<br>
 rftools-3.11<br>
 roguelike-1.7.10-1.3.6.3<br>
@@ -116,8 +116,8 @@ ThaumcraftGates-1.4.1<br>
 thaumicenergistics-0.8.10.6<br>
 ThaumicExploration-1.7.10-1.1-52<br>
 ThaumicTinkerer-2.5-1.7.10-507<br>
-ThermalExpansion-[1.7.10]4.0.1-182<br>
-ThermalFoundation-[1.7.10]1.0.0-81<br>
+ThermalExpansion-[1.7.10]4.0.2B1-208<br>
+ThermalFoundation-[1.7.10]1.2.0B1-95<br>
 TMechworks-1.7.10-0.2.14.100<br>
 Translocator-1.7.10-1.1.2.15<br>
 twilightforest-1.7.10-2.3.7<br>
