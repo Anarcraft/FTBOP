@@ -6,7 +6,7 @@ Released on Technic Launcher 7-##-2015
 ### [Updated Mods](Updated-Mods/1.1.md)
 
 #### Added:
-ae2stuff-0.4.1.41-mc1.7.10<br>
+ae2stuff-0.4.2.43-mc1.7.10<br>
 ATG-1.7.10-0.12.0<br>
 chocolateQuest-1.7.10-1.0<br>
 DamageIndicatorsMod-3.2.3<br>

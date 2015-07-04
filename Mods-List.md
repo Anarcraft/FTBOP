@@ -3,7 +3,7 @@
 ### Client/Server Mods:
 forge-1.7.10-10.13.3.1408<br>
 advancedgenetics-1.7.10-1.5.9<br>
-ae2stuff-0.4.1.41-mc1.7.10<br>
+ae2stuff-0.4.2.43-mc1.7.10<br>
 AOBD-2.6.3<br>
 appliedenergistics2-rv2-stable-9<br>
 Aroma1997Core-1.7.10-1.0.2.13<br>
@@ -24,7 +24,7 @@ Botania r1.6-198<br>
 buildcraft-7.0.13<br>
 Carpenter's Blocks v3.3.7 DEV - MC 1.7.10<br>
 ChickenChunks-1.7.10-1.3.4.19<br>
-Chisel2-2.4.0.38<br>
+Chisel2-2.4.1.40<br>
 chocolateQuest-1.7.10-1.0<br>
 CodeChickenCore-1.7.10-1.0.7.46<br>
 CoFHCore-[1.7.10]3.0.2-262<br>
@@ -61,7 +61,7 @@ Hats-4.0.1<br>
 HatStand-4.0.0<br>
 IC2NuclearControl-2.2.5a-GoingForTheKill<br>
 iChunUtil-4.2.2<br>
-industrialcraft-2-2.2.742-experimental<br>
+industrialcraft-2-2.2.744-experimental<br>
 InfiniBows-1.7.10-coremod-1.3.0.20<br>
 INpureCore-[1.7.10]1.0.0B9-62<br>
 ironchest-1.7.10-6.0.62.742<br>
@@ -69,7 +69,7 @@ Jabba-1.2.1a_1.7.10<br>
 k4lib-1.7.10-0.1.50<br>
 liteloader-1.7.10<br>
 magicalcrops-1.7.10_0.1<br>
-magicbees-1.7.10-2.3.1<br>
+magicbees-1.7.10-2.3.2<br>
 Mantle-1.7.10-0.3.2<br>
 Mariculture-Deluxe-1.7.10-1.2.4.2a<br>
 Mekanism-1.7.10-8.1.5.246<br>
@@ -114,7 +114,7 @@ Talismans-1.7.10-1.1.4<br>
 TConstruct-1.7.10-1.8.5<br>
 Thaumcraft-1.7.10-4.2.3.5<br>
 ThaumcraftGates-1.4.1<br>
-thaumicenergistics-0.8.10.5<br>
+thaumicenergistics-0.8.10.6<br>
 ThaumicExploration-1.7.10-1.1-52<br>
 ThaumicTinkerer-2.5-1.7.10-507<br>
 ThermalExpansion-[1.7.10]4.0.1-182<br>
