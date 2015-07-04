@@ -37,7 +37,7 @@ rftools-3.11
 **Voxel Map:** Square map, enabled all radars, unlimited waypoint distance and all death points.
 
 #### Removed:
-Dense Ores
+Dense Ores<br>
 Infernal Mobs (Console spam)
 
 ### 1.0.6: The Extra Thorough Update (5-28-2015):
