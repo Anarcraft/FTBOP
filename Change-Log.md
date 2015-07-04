@@ -25,12 +25,14 @@ pvpToggle-1.7.10-1.0.33-universal<br>
 rftools-3.11
 
 #### Changed:
-**BuildCraft:** Enabled Filler and Builder<br>
-**Damage Indicators:** Red colored damage text.<br>
+**ATG:** Disabled cherry blossom grove (Lava gen issue), "generator.cfg" supporting BoP.<br>
+**Big Reactors:** Enabled steel recipes.<br>
+**BuildCraft:** Enabled Filler and Builder.<br>
+**Damage Indicators:** Red colored damage text, only notify if update.<br>
 **Forestry:** Disabled Copper/Tin ore gen.<br>
 **Hardcore Ender Expansion:** Disabled temple caller, enabled over powered mobs in the end.<br>
 **Project Red:** Disabled Copper/Tin ore gen.<br>
-**Mariculture:** Disabled Copper ore gen.<br>
+**Mariculture:** Disabled Copper ore gen, fixed enchantment ID conflict.<br>
 **Voxel Map:** Square map, enabled all radars, unlimited waypoint distance and all death points.
 
 #### Removed:
