@@ -7,7 +7,7 @@ Included in the pack's server list is the official FTBOP sever over at Undergrou
 For a full mod list, change log, etc see the following repository. github.com/Anarcraft/FTBOP
 
 Requirements:
-Minimum of 2GB allocated RAM.
+Minimum of 3GB RAM.
 Java 7 minimum, works with Java 8.
 
 These are the java arguments I set, your results may vary depending on your computer specifications.  Modify/disable as needed:
