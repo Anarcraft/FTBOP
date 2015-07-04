@@ -1,1 +1,1 @@
-FTBOP is all about using magic and technology to be overpowered while you adventure a dangerous world.  Do you have what it takes to be OP?  Requires minimum of 3GB RAM set in your launcher.
+Free To Be OP is all about using magic and technology to be overpowered while you adventure in a dangerous world.  Do you have what it takes to be OP?  Requires minimum of 3GB RAM set in your launcher.
