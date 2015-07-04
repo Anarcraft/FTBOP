@@ -29,6 +29,7 @@ rftools-3.11
 **Big Reactors:** Enabled steel recipes.<br>
 **BuildCraft:** Enabled Filler and Builder.<br>
 **Damage Indicators:** Red colored damage text, only notify if update.<br>
+**Difficult Life:** Max player health set to 2,000.<br>
 **Forestry:** Disabled Copper/Tin ore gen.<br>
 **Hardcore Ender Expansion:** Disabled temple caller, enabled over powered mobs in the end.<br>
 **Project Red:** Disabled Copper/Tin ore gen.<br>

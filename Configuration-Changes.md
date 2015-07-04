@@ -6,6 +6,7 @@
 **Big Reactors:** Enabled steel recipes.<br>
 **COFH:** Disabled NPC death messages.<br>
 **Damage Indicators:** Red colored damage text, only notify if update.<br>
+**Difficult Life:** Max player health set to 2,000.<br>
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
 **Forestry:** Disabled Copper/Tin ore gen.<br>
 **iChun Util:** Disabled stats collection.<br>
