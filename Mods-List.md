@@ -8,7 +8,7 @@ AOBD-2.6.3<br>
 appliedenergistics2-rv2-stable-9<br>
 Aroma1997Core-1.7.10-1.0.2.13<br>
 ATG-1.7.10-0.12.0<br>
-Automagy-1.7.10-0.25<br>
+Automagy-1.7.10-0.26<br>
 bdlib-1.9.0.94-mc1.7.10<br>
 BetterChests-1.7.10-1.1.1.9<br>
 BetterTitleScreen-1.7.10-1.1<br>
