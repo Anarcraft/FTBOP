@@ -30,7 +30,6 @@ CodeChickenCore-1.7.10-1.0.7.46<br>
 CoFHCore-[1.7.10]3.0.2-262<br>
 CompactSolars-1.7.10-4.4.39.315<br>
 ComputerCraft1.73<br>
-DamageIndicatorsMod-3.2.3<br>
 dark_menagerie-1.7.10-beta-3.1a<br>
 DifficultLife-1.2.1710.3<br>
 Draconic-Evolution-1.7.10-1.0.1c<br>
@@ -129,6 +128,7 @@ witchery-1.7.10-0.24.1<br>
 WR-CBE-1.7.10-1.4.1.9
 
 ### Client Only Mods:
+DamageIndicatorsMod-3.2.3<br>
 InventoryTweaks-1.59-dev-156<br>
 MineMenu-1.7.10-1.2.0.B44<br>
 MouseTweaks-2.4.4-mc1.7.10<br>
@@ -142,11 +142,13 @@ Morpheus-1.7.10-1.6.4<br>
 ServerTools-CORE-1.7.10-2.2.0.79<br>
 ServerTools-TELEPORT-1.7.10-2.2.0.13
 
-### Disabled Mods On Client:
-AromaBackup-1.7.10-0.0.0.5<br>
-HelpFixer-1.1.9<br>
+### Disabled Mods:
 MobiusCore-1.2.5_1.7.10<br>
 Opis-1.2.5_1.7.10
+
+### Disabled Mods On Client:
+AromaBackup-1.7.10-0.0.0.5<br>
+HelpFixer-1.1.9
 
 ### Disabled Mods On Server:
 AromaBackup-1.7.10-0.0.0.5

@@ -37,8 +37,10 @@ rftools-3.11
 **Voxel Map:** Square map, enabled all radars, unlimited waypoint distance and all death points.
 
 #### Removed:
-Dense Ores<br>
-Infernal Mobs (Console spam)
+BloodUtils/Waslie Core (Hasn't been updated in 8 months and causes crashes)
+Dense Ores (Not really needed, added other mods instead)<br>
+Infernal Mobs (Console spam, adding Difficult Life instead)<br>
+Logistics Pipes (Doesn't work with current Buildcraft?)
 
 ### 1.0.6: The Extra Thorough Update (5-28-2015):
 
