@@ -2,7 +2,8 @@ The "Free To Be OverPowered" (FTBOP) modpack is loaded with many of your favorit
 
 With it's 184 mods, FTBOP has been in development since Fall of 2014 with both stability and performance as the primary focus, and now it is finally ready.
 
-Included in the pack's server list is the official FTBOP sever over at Underground Lounge. The server has no whitelist so feel free to stop by and say hello. UgL has a mature, friendly community who is very experienced with modded Minecraft. uglounge.com
+Included in the pack's server list is the official FTBOP sever over at Underground Lounge. The server has no whitelist so feel free to stop by and say hello. UgL has a mature, friendly community who is very experienced with modded Minecraft.
+With the 1.1 update requiring a world reset the official FTBOP server at UgL has started with a fresh world as of July 4th along with the Technic release! uglounge.com
 
 For a full mod list, change log, etc see the following repository. github.com/Anarcraft/FTBOP
 
