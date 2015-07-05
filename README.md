@@ -1,9 +1,9 @@
 ## Free To Be OP 1.1
 ### By Anarcraft & Team [Underground Lounge](http://uglounge.com)
 
-A tech, magic and over powered themed modpack inspired by the Direwolf20 pack.  It can be found on the Technic Launcher. (NOT YET!)
+The "Free To Be OverPowered" (FTBOP) modpack is loaded with many of your favorite mods, no matter if you want to build your dream base with magic, tech or want to explore the world. But be warned you are not the only one who is free to be OP, we have let the monsters have that ability too.
 
-### [Client Download](https://www.dropbox.com/s/e3a8a4ru3p4nyuu/FTBOP%201.0.6-Client.zip?dl=1)
+To install open the Technic launcher and search for "ftbop".
 
 Mods already at a stable version won’t be updated until another stable version is available (unless we are forced into updating), beta/alpha mods will continue to receive updates of any kind until they are considered stable.  World resets will NOT be required (at least that’s the goal).
 
