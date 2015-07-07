@@ -4,6 +4,7 @@
 The "Free To Be OverPowered" (FTBOP) modpack is loaded with many of your favorite mods, no matter if you want to build your dream base with magic, tech or want to explore the world. But be warned you are not the only one who is free to be OP, we have let the monsters have that ability too.
 
 To install open the Technic launcher and search for "ftbop".
+[Modpack Page](http://technicpack.net/modpack/ftbop)
 
 Mods already at a stable version won’t be updated until another stable version is available (unless we are forced into updating), beta/alpha mods will continue to receive updates of any kind until they are considered stable.  World resets will NOT be required (at least that’s the goal).
 
