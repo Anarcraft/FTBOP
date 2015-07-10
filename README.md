@@ -24,6 +24,6 @@ These are the java arguments I set, your results may vary depending on your comp
 ### [ModPack Permissions](ModPack-Permissions.md)
 
 ### Underground Lounge:
-FTBOP was made for and by the UgL community.  Check it out at [the website](http://www.uglounge.com).
+FTBOP was made for and by the [Underground Lounge Community](http://uglounge.com).
 
 I will do a 1.8 version of the pack when the time is right, all suggestions are welcome…
