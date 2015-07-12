@@ -32,4 +32,5 @@
 **Chicken Chunks:** Unload for player after 2 days, 100 per loader, OP can edit loaders, limit 200 chunks per player.<br>
 **Railcraft:** 1 ender pearl=6 hours of fuel, cannot interact with pipes, no fuel for personal anchor.<br>
 **MineFactory Reloaded:** Chunk loader requires player to be online.<br>
-**Opis:** Access for privileged users.
+**Opis:** Access for privileged users.<br>
+**PvP Toggle:** Enable keep inventory and XP on PvP death.
