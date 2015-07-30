@@ -1,6 +1,6 @@
 The "Free To Be OverPowered" (FTBOP) modpack is loaded with many of your favorite mods, no matter if you want to build your dream base with magic, tech or want to explore the world. But be warned you are not the only one who is free to be OP, we have let the monsters have that ability too.
 
-With it's 184 mods, FTBOP has been in development since Fall of 2014 with both stability and performance as the primary focus, and now it is finally ready.
+With it's 185 mods, FTBOP has been in development since Fall of 2014 with both stability and performance as the primary focus, and now it is finally ready.
 
 [url=github.com/Anarcraft/FTBOP/blob/master/Mods-List.md]Mods List[/url] | [url=github.com/Anarcraft/FTBOP/blob/master/Configuration-Changes.md]Configuration Changes[/url]
 

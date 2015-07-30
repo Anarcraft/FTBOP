@@ -1,12 +1,12 @@
 ## Configuration Changes
 
 ### Client/Server:
-**Forge:** Enabled delete erroring entities and tile entities instead of crashing the server.<br>
+**Forge:** Enabled delete erroring entities and tile entities instead of crashing the server, disable mod overrides for chunk loading, cache 5000 chunks.<br>
 **ATG:** Disabled cherry blossom grove (Lava gen issue), "generator.cfg" supporting BoP.<br>
 **Big Reactors:** Enabled steel recipes.<br>
 **COFH:** Disabled NPC death messages.<br>
 **Damage Indicators:** Red colored damage text, only notify if update.<br>
-**Difficult Life:** Max player health set to 2,000.<br>
+**Difficult Life:** Set difficulty progression to 0.00062086092 (about 1 week to max).<br>
 **Evilcraft:** Disabled fluid registry for dark tank.<br>
 **Forestry:** Disabled Copper/Tin ore gen.<br>
 **iChun Util:** Disabled stats collection.<br>
@@ -20,7 +20,7 @@
 **Open Blocks:** Disabled fluid registry for tank.<br>
 **PneumaticCraft:** Disabled seed mob drops.<br>
 **ProjectE:** Enabled nether star recipes, set EMC value of blaze rod and blaze powder to 32 and 16, respectively, to prevent exploits, watch of Flowing time pedestal bonus set to 4, pregenerate EMC values, disable energy condensors, transmutation table, tome and EMC tooltips.<br>
-**Project Red:** Disabled Copper/Tin ore gen.<br>
+**Project Red:** Disabled Copper/Tin/Silver/Gems ore gen.<br>
 **Random Things:** Set BloodMoonSpawnLimitMult=2 and BloodMoonSpawnRange=6.<br>
 **Special Mobs:** Trolling disabled.<br>
 **Voxel Map:** Square map, enabled all radars, unlimited waypoint distance and all death points.

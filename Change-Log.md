@@ -1,7 +1,26 @@
 ## Change Log
 
+### 1.1.1: The Cleanup & Bugfix Update (7-29-2015):
+
+### [Updated Mods](Updated-Mods/1.1.1.md)
+
+#### Added:
+forgeessentials-1.7.10-1.4.1-client<br>
+forgeessentials-1.7.10-1.4.1
+
+#### Changed:
+**Difficult Life:** Set difficulty progression to 0.00062086092 (about 1 week to max), enabled unlimited health.<br>
+**Forge:** Disable mod overrides for chunk loading, cache 5000 chunks.
+
+#### Removed:
+AdminCommandsToolbox-0.0.2a_1.7.10<br>
+AromaBackup-1.7.10-0.0.0.5<br>
+roguelike-1.7.10-1.3.6.3<br>
+ServerTools-CORE-1.7.10-2.2.0.79.jar<br>
+ServerTools-TELEPORT-1.7.10-2.2.0.13
+
 ### 1.1: The Technic Release Update (7-2-2015):
-Released on Technic Launcher 7-##-2015
+Released on Technic Launcher 7-5-2015
 
 ### [Updated Mods](Updated-Mods/1.1.md)
 
