@@ -1,4 +1,4 @@
-## Free To Be OP 1.1
+## Free To Be OP 1.1.1
 ### By Anarcraft & Team [Underground Lounge](http://uglounge.com)
 
 The "Free To Be OverPowered" (FTBOP) modpack is loaded with many of your favorite mods, no matter if you want to build your dream base with magic, tech or want to explore the world. But be warned you are not the only one who is free to be OP, we have let the monsters have that ability too.
